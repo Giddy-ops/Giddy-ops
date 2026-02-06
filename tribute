@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tribute to Linus Torvalds</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header class="site-header">
+    <h1>Tribute to Linus Torvalds</h1>
+    <p class="subtitle">Creator of Linux and a pioneer of open source</p>
+  </header>
+
+  <main class="container">
+    <section id="intro" class="card">
+      <h2>Introduction</h2>
+      <p>Linus Torvalds is a visionary software engineer and the creator of the Linux kernel, whose work sparked a global movement toward collaborative, open source development. By releasing Linux under the GNU General Public License, he empowered millions of developers to contribute, customize, and improve a core technology that underpins everything from servers to smartphones. His insistence on simplicity, robustness, and a meritocratic collaboration model has shaped modern operating systems and inspired a culture of shared innovation.</p>
+    </section>
+
+    <section id="biography" class="card">
+      <h2>Biography & Milestones</h2>
+      <ul>
+        <li><strong>1991</strong>: Began the Linux project and released the first kernel</li>
+        <li><strong>1992</strong>: Linux licensed under GPL, enabling wide collaboration</li>
+        <li><strong>2005–present</strong>: Kernel development expands with thousands of contributors</li>
+        <li><strong>Leadership roles</strong>: Involvement with the Linux Foundation and ongoing stewardship</li>
+      </ul>
+    </section>
+
+    <section id="impact" class="card">
+      <h2>Impact & Achievements</h2>
+      <p>Created a portable, scalable kernel powering much of the internet’s infrastructure, cloud data centers, and many devices. Launched a collaborative open source model that prioritizes code quality, peer review, and modular design. Inspired countless developers to contribute to open source, fostering a global ecosystem of innovation and collaboration.</p>
+    </section>
+
+    <section id="quotes" class="card">
+      <h2>Quotes</h2>
+      <blockquote>
+        “Software is a living thing; the best code is the code that people actually use and improve together.”
+        <cite>— Linus Torvalds (paraphrased; cite actual source if available)</cite>
+      </blockquote>
+    </section>
+
+    <section id="reflection" class="card">
+      <h2>Personal Reflection</h2>
+      <p>Linus’s open source philosophy demonstrates how collective effort can outperform solitary effort, showing that curiosity, collaboration, and meritocracy can drive world-changing technology.</p>
+    </section>
+  </main>
+</body>
+</html>
